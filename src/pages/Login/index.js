@@ -4,7 +4,7 @@ import React from 'react'
 const Login = (props) => {
     const history = createBrowserHistory()
     const gotoDashboard = ()=>{
-        window.location.href = "/dashboard"
+        window.location.href = "/"
     }
     return (
         <>
