@@ -1,13 +1,16 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import { Dashboard } from '../../pages'
+import { Dashboard, Login } from '../../pages'
 
 const Routes = () => {
     return (
         <Router>
             <Switch>
-                <Route path="/">
+                <Route path="/dashboard" exact>
                     <Dashboard/>
+                </Route>
+                <Route path="/login">
+                    <Login/>
                 </Route>
             </Switch>
         </Router>
