@@ -4,7 +4,6 @@ const Login = () => {
     const history = useHistory()
     const gotoDashboard = ()=>{
         history.push('/dashboard')
-        history.go(0)
     }
 
     return (

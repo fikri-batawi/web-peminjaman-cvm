@@ -46,6 +46,214 @@ const Sidebar = () => {
                                         url="login" />
                                 </ul>
                             </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
+                            <Menu title="Peminjaman" />
+                            <li>
+                                <a href="#">
+                                    <i class="metismenu-icon pe-7s-diamond"></i>
+                                    Peminjaman
+                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                </a>
+                                <ul>
+                                    <Submenu
+                                        title="Pinjam Alat"
+                                        url="login" />
+                                </ul>
+                            </li>
                             <Menu title="Konfirmasi" />
                             <Menu title="Alat" />
                             <Menu title="Pengguna" />
