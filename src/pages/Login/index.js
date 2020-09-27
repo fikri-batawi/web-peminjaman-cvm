@@ -1,11 +1,9 @@
-import { createBrowserHistory } from 'history'
-import React, { useEffect } from 'react'
-import {Redirect,useHistory} from 'react-router-dom'
-// import {createBrowserHistory} from 'history'
-const Login = (props) => {
+import React from 'react'
+import {useHistory} from 'react-router-dom'
+const Login = () => {
     const history = useHistory()
     const gotoDashboard = ()=>{
-        history.push('/')
+        history.push('/dashboard')
         history.go(0)
     }
 
